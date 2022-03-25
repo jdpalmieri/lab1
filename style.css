@@ -16,3 +16,6 @@ body {
     color: #000000; 
     font-size: 25px;
    }
+#content {
+    padding:3px;
+}
