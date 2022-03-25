@@ -16,6 +16,12 @@ body {
     color: #000000; 
     font-size: 25px;
    }
+footer{
+    font-family: Futura, Trebuchet MS;
+    font-weight: bold condensed;
+    color: #AC2B37; 
+    font-size: 25px;
+    }
 #content {
     padding:3px;
 }
