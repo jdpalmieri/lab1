@@ -19,3 +19,15 @@ body {
 #content {
     padding:3px;
 }
+#p {
+    padding:3px;
+}
+#h1 {
+    padding:3px;
+}
+#header {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
